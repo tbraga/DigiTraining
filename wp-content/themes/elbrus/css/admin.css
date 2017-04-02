@@ -1,0 +1,32 @@
+/*------------------------------------------------------------------
+Project:	 ELBRUS
+Version: 	1.0
+Primary use:	ELBRUS admin
+-------------------------------------------------------------------*/
+.pix-theme-icon_nav .vc_element-icon, .pix-theme-icon .vc_element-icon {
+  background: url(../img/pix-theme-icon.png) no-repeat 0 0 !important;
+}
+
+.pix-theme-icon2_nav .vc_element-icon, .pix-theme-icon2 .vc_element-icon {
+  background: url(../img/pix-theme-icon2.png) no-repeat 0 0 !important;
+}
+
+.pix-theme-icon3_nav .vc_element-icon, .pix-theme-icon3 .vc_element-icon {
+  background: url(../img/pix-theme-icon3.png) no-repeat 0 0 !important;
+}
+
+.pix-theme-icon4_nav .vc_element-icon, .pix-theme-icon24 .vc_element-icon {
+  background: url(../img/pix-theme-icon4.png) no-repeat 0 0 !important;
+}
+
+.pix-theme-icon5_nav .vc_element-icon, .pix-theme-icon5 .vc_element-icon {
+  background: url(../img/pix-theme-icon5.png) no-repeat 0 0 !important;
+}
+
+.pix-theme-icon6_nav .vc_element-icon, .pix-theme-icon6 .vc_element-icon {
+  background: url(../img/pix-theme-icon6.png) no-repeat 0 0 !important;
+}
+
+.pix-theme-icon7_nav .vc_element-icon, .pix-theme-icon7 .vc_element-icon {
+  background: url(../img/pix-theme-icon7.png) no-repeat 0 0 !important;
+}

@@ -1,0 +1,14 @@
+#sortable-table-portfolio .column-order {
+	cursor: move;
+	width: 80px;
+}
+
+#sortable-table-portfolio .column-thumbnail img {
+	width: 100%;
+	height: auto;
+	max-width: 200px;
+}
+
+#sortable-table-portfolio .column-thumbnail, #sortable-table-portfolio th.column-thumbnail {
+	text-align: center;
+}
