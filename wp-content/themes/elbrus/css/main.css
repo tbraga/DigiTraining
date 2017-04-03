@@ -4781,3 +4781,25 @@ body.fixed-header .scrolling-header .navbar .navbar-search .input-group .search-
     max-width: 100%;
   }
 }
+
+.hbspt-form input[type=submit]{
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    box-shadow: none;
+    font-weight: normal;
+    font-family: Raleway, sans-serif;
+    line-height: 20px;
+    text-transform: uppercase;
+    padding: 15px 25px;
+}
+
+.hbspt-form input[type=submit]:hover{
+    background: rgba(255, 255, 255, 0.3)!important;
+    border: 1px solid #fff!important;
+    box-shadow: none!important;
+    font-weight: normal!important;
+    font-family: Raleway, sans-serif!important;
+    line-height: 20px!important;
+    text-transform: uppercase!important;
+    padding: 15px 25px!important;
+}
